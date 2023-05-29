@@ -22,8 +22,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: DELLI PRIYA L
+### Register Number: 212222230029
+
+![image](https://github.com/Priya-Loganathan/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/121166075/0ff23639-6cf5-46ae-965a-bb8fd8c6011e)
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
